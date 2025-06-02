@@ -1,0 +1,10 @@
+{
+  "name": "simpleweb",
+  "version": "1.0.0",
+  "description": "Prosta aplikacja webowa dla laboratorium 5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
